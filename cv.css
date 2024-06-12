@@ -1,0 +1,60 @@
+.profile {
+    display: block;
+    margin: 0 auto;
+    border-radius: 800px;
+}
+
+/* My Name */
+h1 {
+    font-family: Poppins, sans-serif;
+    text-align: center;
+}
+
+/* My Contact Information */
+.my-info {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: #8C9EFF;
+    
+}
+
+body {
+    background: #ECF0F1;
+    font-family: Poppins, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    font-style: normal;
+    color: #262626;
+}
+
+
+
+/* Removed underline from links for a more clean look */
+a {
+    text-decoration: none; 
+    color: #7f5af0;
+}
+
+
+/* Contact Me */
+.contact-me {
+    text-align: center;
+}
+
+/* Contact Form */
+form {
+    text-align: center;
+    border-style: solid;
+    border-color: #aeb7eb8d;
+}
+
+
+/* Buttons */
+button {
+    color: #fffffe;
+    background-color: #7f5af0;
+    border-radius: 25px;
+}
